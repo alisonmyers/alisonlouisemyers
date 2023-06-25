@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Oh, hi!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Alison.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "welcome ",
+    "highlight": "to my portfolio",
     "suffix": "."
   },
-  "description": "Hero Description",
+  "description": "Hero Description goes here ... ",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
