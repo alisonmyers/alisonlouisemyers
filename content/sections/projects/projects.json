@@ -8,7 +8,8 @@
       "tags": ["Tableau", "Data-Viz"],
       "image": {
         "src": "../../images/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://unsplash.com/photos/hpjSkU2UYSU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
       },
       "links": [
         {
@@ -25,7 +26,8 @@
       "tags": ["Project-Management", "API"],
       "image": {
         "src": "../../images/barn-images-t5YUoHW6zRo-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://unsplash.com/photos/t5YUoHW6zRo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
       },
       "links": [
         {
@@ -47,7 +49,7 @@
       "image": {
         "src": "../../images/susan-q-yin-2JIvboGLeho-unsplash.jpg",
         "alt": "MET Porfolio",
-        "linkTo": "https://alisonmyers.gatsbyjs.io"
+        "linkTo": "https://unsplash.com/photos/2JIvboGLeho?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
       },
       "links": [
         {

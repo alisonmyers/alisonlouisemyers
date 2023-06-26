@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Alison Myers (adapted from Konstantin Münster)",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/icons8-am-radio-96.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "github": "https://github.com/alisonmyers",
