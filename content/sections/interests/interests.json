@@ -1,14 +1,8 @@
 {
   "interests": [
+
     {
-      "label": "Python",
-      "image": {
-        "src": "../../images/icons8-python.png",
-        "alt": "https://icons8.com/icon/13441/python"
-      }
-    },
-    {
-      "label": "Tableau",
+      "label": "Tableau Ninja",
       "image": {
         "src": "../../images/icons8-tableau.png",
         "alt": "https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software by icons8",
@@ -16,28 +10,35 @@
       }
     },
     {
-      "label": "Excel",
+      "label": "Python Pro",
+      "image": {
+        "src": "../../images/icons8-python.png",
+        "alt": "https://icons8.com/icon/13441/python"
+      }
+    },
+    {
+      "label": "Excel Enthusiast",
       "image": {
         "src": "../../images/icons8-excel.png",
         "alt": ""
       }
     },
     {
-      "label": "Project Management",
+      "label": "Project Manager",
       "image": {
         "src": "../../images/icons8-project-48.png",
         "alt": ""
       }
     },
     {
-      "label": "Documentation",
+      "label": "Documentation Nerd",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
-      "label": "Community Development",
+      "label": "Community Developer",
       "image": {
         "src": "../../images/icons8-community-48.png",
         "alt": ""
