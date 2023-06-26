@@ -3,8 +3,8 @@
   "email": "alisonlouisemyers@gmail.com",
   "description": "Get in touch!",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/icons8-am-radio-96.png",
+    "alt": "AM Radio Logo from Icons8"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],

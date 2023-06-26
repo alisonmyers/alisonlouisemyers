@@ -1,4 +1,8 @@
 {
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  },
   "intro": "Oh, hi!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
@@ -14,9 +18,5 @@
     "highlight": "to my portfolio",
     "suffix": "."
   },
-  "description": "Hero Description goes here ... ",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
-    "showIcons": false
-  }
+  "description": "Just trying to be the human 🙋‍♀️ in the data loop 🔁 and doing my best to stay competitive with ChatGPT 🤖."
 }
