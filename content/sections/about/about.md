@@ -3,12 +3,10 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+The content in this portfolio is my own, but I that believe attribution is critically important, especially as more and more technology exists in the "open".  
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+🔁 This portfolio was adapted from the Gatsby Starter "Portfolio Minimal" developed by <a href="https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Konstantin Münster</u></a>.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+<p><img width="24" height="24" style="vertical-align:middle" src="https://img.icons8.com/color-glass/48/icons8-logo.png" alt="icons8-logo"/> All icons added by me come from <a href="https://icons8.com" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Icons8</u></a>.</p>
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+📸 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
