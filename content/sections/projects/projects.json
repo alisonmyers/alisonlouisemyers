@@ -4,7 +4,7 @@
       "visible": true,
       "category": "📊 Data Viz",
       "title": "Tableau: Function First",
-      "description": "My entrance to data analytics really started with Tableau and data visualization. The data wrangling, scraping, cleaning etc. skills have been developed to complement my desire to build functional dashboards that allow folks to make data-supported decisions. I quickly learned that if I wanted to build the best dashboards then I wanted to have the skills to get the data in the best possible shape to do so. I take a functional-first approach to Tableau. You will find my profile mostly contains dashboards that are used to demonstrate functionality and/or are used to complement various Tableau tutorials and workshops. 📸 Photo by Carlos Muza on Unsplash.",
+      "description": "My entrance to data analytics really started with Tableau and data visualization. The data wrangling, scraping, cleaning etc. skills have been developed to complement my desire to build functional dashboards that allow folks to make data-supported decisions. I quickly learned that if I wanted to build the best dashboards then I wanted to have the skills to get the data in the best possible shape to do so. This approach has given me a deep appreciation for the advanced capabilities of Tableau, and why I take a functional-first approach to Tableau. You will find my profile mostly contains dashboards that are used to demonstrate functionality and/or are used to complement various Tableau tutorials and workshops. 📸 Photo by Carlos Muza on Unsplash.",
       "tags": ["Tableau", "Data-Viz"],
       "image": {
         "src": "../../images/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
@@ -45,7 +45,7 @@
       "category": "🎓 Master of Educational Technology",
       "title": "Check out my Master's portfolio",
       "description": "I completed UBC's Master of Education program in 2022. Fondly known as the MET program, the mix of hands-on and theoretical learning ultimately produced a body of work that showcases my desire to learn by doing. The goal was to 'show off' artifacts I built throughout the program, but I wanted to do so in a way that allowed me to experiment with new technologies - enter my first experiennce with Gatsby and React! [Sadly, not mobile friendly]. 📸 Photo by Susan Q Yin on Unsplash",
-      "tags": ["Learning-by-Doing"],
+      "tags": ["Learning-by-Doing", "Room-for-Improvement"],
       "image": {
         "src": "../../images/susan-q-yin-2JIvboGLeho-unsplash.jpg",
         "alt": "MET Porfolio",
