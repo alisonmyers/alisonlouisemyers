@@ -15,7 +15,10 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Alison Louise Myers" },
+    "logo": {
+      "text": "Alison Louise Myers",
+      "image": "./images/icons8-am-radio-96.png"
+    },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
