@@ -2,9 +2,47 @@
   "projects": [
     {
       "visible": true,
+      "category": "📊 Data Viz",
+      "title": "Tableau: Starting at the end",
+      "description": "My entrance to data analytics really started with Tableau and data visualization. The data wrangling, scraping, cleaning etc. skills have been developed to complement my desire to build functional dashboards that allow folks to make data-supported decisions. I quickly learned that if I wanted to build the best dashboards then I wanted to have the skills to get the data in the best possible shape to do so. 📸 Photo by Carlos Muza on Unsplash.",
+      "tags": ["Tableau", "Data-Viz"],
+      "image": {
+        "src": "../../images/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://public.tableau.com/app/profile/alison.myers8884"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Hacking an LMS",
+      "title": "Automating with REST APIs",
+      "description": "I work with a team of instructional support staff who ensure our faculty members use our institutional LMS effectively. However, the LMS doesn't always 'do' what we need it to, or make data available in an accessible way. We developed a series of tools using the available APIs (REST and GraphQL) to extend the functionality of the LMS. 📸 Photo by Barn Images on Unsplash.",
+      "tags": ["Project-Management", "API"],
+      "image": {
+        "src": "../../images/barn-images-t5YUoHW6zRo-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/saud-learning-services"
+        },
+        {
+          "type": "external",
+          "url": "https://saud-learning-services.github.io/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🎓 Master of Educational Technology",
-      "title": "Check out my Master's portfolio!",
-      "description": "I completed UBC's Master of Education program in 2022. Fondly known as the MET program, the mix of hands-on and theoretical learning ultimately produced a body of work that showcases my desire to learn by doing. The goal was to 'show off' artifacts I built throughout the program, but I wanted to do so in a way that allowed me to experiment with new technologies - enter Gatsby and React! \n Photo by Susan Q Yin on Unsplash",
+      "title": "Check out my Master's portfolio",
+      "description": "I completed UBC's Master of Education program in 2022. Fondly known as the MET program, the mix of hands-on and theoretical learning ultimately produced a body of work that showcases my desire to learn by doing. The goal was to 'show off' artifacts I built throughout the program, but I wanted to do so in a way that allowed me to experiment with new technologies - enter Gatsby and React! 📸 Photo by Susan Q Yin on Unsplash",
       "tags": ["Learning-by-Doing"],
       "image": {
         "src": "../../images/susan-q-yin-2JIvboGLeho-unsplash.jpg",
@@ -21,27 +59,10 @@
           "url": "https://alisonmyers.gatsbyjs.io"
         }
       ]
-    },
-    {
-      "visible": true,
-      "category": "📊 Data Viz",
-      "title": "Tableau Desktop: My Intro to Data Viz",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Carlos Muza on Unsplash.",
-      "tags": ["Tableau", "Data-Viz"],
-      "image": {
-        "src": "../../images/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://public.tableau.com/app/profile/alison.myers8884"
-        }
-      ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/alisonmyers"
   }
