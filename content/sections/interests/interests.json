@@ -8,13 +8,6 @@
       }
     },
     {
-      "label": "Documentation",
-      "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Tableau",
       "image": {
         "src": "../../images/icons8-tableau.png",
@@ -32,7 +25,21 @@
     {
       "label": "Project Management",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/icons8-project-48.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Documentation",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Community Development",
+      "image": {
+        "src": "../../images/icons8-community-48.png",
         "alt": ""
       }
     }
