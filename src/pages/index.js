@@ -15,8 +15,8 @@ export default function IndexPage() {
       <Seo title="Alison Myers' Portfolio" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="interests" heading="Skills & Fav Tools" />
+        <AboutSection sectionId="about" heading="About Me" />
         <ProjectsSection sectionId="portfolio" heading="Portfolio" />
         <ContactSection sectionId="contact" heading="Contact Me" />
       </Page>
