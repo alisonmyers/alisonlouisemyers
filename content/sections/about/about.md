@@ -5,7 +5,7 @@ imageAlt: "About Gatsby Theme Portfolio Minimal"
 
 I like to build stuff and learn things. 
 
-<q>I take immense pleasure in both building and learning. The art of construction captivates me almost as much as the pursuit of knowledge. Whether it's creating something tangible or expanding my understanding, these two passions intertwine to shape my personal and professional journey.</q>
+<i><q>I take immense pleasure in both building and learning. The art of construction captivates me almost as much as the pursuit of knowledge. Whether it's creating something tangible or expanding my understanding, these two passions intertwine to shape my personal and professional journey.</q></i>
 
 The content in this portfolio is my own, but I that believe attribution is critically important. This portfolio wouldn't exist without:  
 
