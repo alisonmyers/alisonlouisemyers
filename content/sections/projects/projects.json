@@ -3,8 +3,8 @@
     {
       "visible": true,
       "category": "📊 Data Viz",
-      "title": "Tableau: Starting at the end",
-      "description": "My entrance to data analytics really started with Tableau and data visualization. The data wrangling, scraping, cleaning etc. skills have been developed to complement my desire to build functional dashboards that allow folks to make data-supported decisions. I quickly learned that if I wanted to build the best dashboards then I wanted to have the skills to get the data in the best possible shape to do so. You will find my Tableau profile mostly contains dashboards that are used as demos that I use to complement various Tableau tutorials and workshops. 📸 Photo by Carlos Muza on Unsplash.",
+      "title": "Tableau: Function First",
+      "description": "My entrance to data analytics really started with Tableau and data visualization. The data wrangling, scraping, cleaning etc. skills have been developed to complement my desire to build functional dashboards that allow folks to make data-supported decisions. I quickly learned that if I wanted to build the best dashboards then I wanted to have the skills to get the data in the best possible shape to do so. I take a functional-first approach to Tableau. You will find my profile mostly contains dashboards that are used to demonstrate functionality and/or are used to complement various Tableau tutorials and workshops. 📸 Photo by Carlos Muza on Unsplash.",
       "tags": ["Tableau", "Data-Viz"],
       "image": {
         "src": "../../images/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
