@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/florian-klauer-mk7D-4UCfmg-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
@@ -9,4 +9,5 @@ The content in this portfolio is my own, but I that believe attribution is criti
 
 <p><img width="24" height="24" style="vertical-align:middle" src="https://img.icons8.com/color-glass/48/icons8-logo.png" alt="icons8-logo"/> All icons added by me come from <a href="https://icons8.com" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Icons8</u></a>.</p>
 
-📸 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+📸 Photo by <a href="https://unsplash.com/@florianklauer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Klauer</a> on <a href="https://unsplash.com/photos/mk7D-4UCfmg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

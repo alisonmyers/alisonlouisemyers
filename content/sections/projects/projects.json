@@ -4,10 +4,10 @@
       "visible": true,
       "category": "🎓 Master of Educational Technology",
       "title": "Check out my Master's portfolio!",
-      "description": "I completed UBC's Master of Education program in 2022. Fondly known as the MET program, the mix of hands-on and theoretical learning ultimately produced a body of work that showcases my desire to learn by doing. The goal was to 'show off' artifacts I built throughout the program, but I wanted to do so in a way that allowed me to experiment with new technologies - enter Gatsby and React! \n Photo by Charles Deluvio on Unsplash",
+      "description": "I completed UBC's Master of Education program in 2022. Fondly known as the MET program, the mix of hands-on and theoretical learning ultimately produced a body of work that showcases my desire to learn by doing. The goal was to 'show off' artifacts I built throughout the program, but I wanted to do so in a way that allowed me to experiment with new technologies - enter Gatsby and React! \n Photo by Susan Q Yin on Unsplash",
       "tags": ["Learning-by-Doing"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/susan-q-yin-2JIvboGLeho-unsplash.jpg",
         "alt": "MET Porfolio",
         "linkTo": "https://alisonmyers.gatsbyjs.io"
       },
@@ -26,10 +26,10 @@
       "visible": true,
       "category": "📊 Data Viz",
       "title": "Tableau Desktop: My Intro to Data Viz",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Carlos Muza on Unsplash.",
       "tags": ["Tableau", "Data-Viz"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
