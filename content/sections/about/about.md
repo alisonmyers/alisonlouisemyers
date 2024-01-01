@@ -15,4 +15,4 @@ Quote by <a href="https://chat.openai.com/share/dbaf28bd-d00f-4f41-a14e-0f4a360e
 
 📸 Photos from <a href="https://unsplash.com" target="_blank" rel="nofollow noopener noreferrer"><u>Unsplash</u></a> like this one by <a href="https://unsplash.com/photos/mk7D-4UCfmg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer"><u>Florian Klauer</u></a>. Where possible, images are linked for appropriate credit. 
   
-<p>Icons from <a href="https://icons8.com" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Icons8</u></a>. <img width="24" height="24" style="vertical-align:middle" src="https://icons8.com/icon/118532/icons8.png" alt="icons8-logo"/></p>  
+<p>Icons from <a href="https://icons8.com" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Icons8</u></a>.
