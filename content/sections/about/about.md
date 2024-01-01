@@ -3,9 +3,9 @@ imageSrc: "../../images/florian-klauer-mk7D-4UCfmg-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I like to build almost as much as I like to learn. 
+I like to build stuff and learn things. <- me
 
-<i><q>I take immense pleasure in both building and learning. The art of construction captivates me almost as much as the pursuit of knowledge. Whether it's creating something tangible or expanding my understanding, these two passions intertwine to shape my personal and professional journey.</q></i>
+<i><q>I take immense pleasure in both building and learning. The art of construction captivates me almost as much as the pursuit of knowledge. Whether it's creating something tangible or expanding my understanding, these two passions intertwine to shape my personal and professional journey.</q></i> <- chatGPT 🤖
 
 The content in this portfolio is my own, but I that believe attribution is critically important. This portfolio wouldn't exist without:  
 
@@ -15,4 +15,4 @@ Quote by <a href="https://chat.openai.com/share/dbaf28bd-d00f-4f41-a14e-0f4a360e
 
 📸 Photos from <a href="https://unsplash.com" target="_blank" rel="nofollow noopener noreferrer"><u>Unsplash</u></a> like this one by <a href="https://unsplash.com/photos/mk7D-4UCfmg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer"><u>Florian Klauer</u></a>. Where possible, images are linked for appropriate credit. 
   
-<p>Icons from <a href="https://icons8.com" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Icons8</u></a>. <img width="24" height="24" style="vertical-align:middle" src="https://img.icons8.com/color-glass/48/icons8-logo.png" alt="icons8-logo"/></p>  
+<p>Icons from <a href="https://icons8.com" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Icons8</u></a>. <img width="24" height="24" style="vertical-align:middle" src="https://icons8.com/icon/118532/icons8.png" alt="icons8-logo"/></p>  
