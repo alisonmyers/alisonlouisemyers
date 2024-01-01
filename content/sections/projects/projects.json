@@ -22,7 +22,7 @@
       "visible": true,
       "category": "🧰 Hacking an LMS",
       "title": "Automating with REST APIs",
-      "description": "I work with a team of instructional support staff who ensure our faculty members use our institutional LMS effectively. However, the LMS doesn't always 'do' what we need it to, or make data available in an accessible way. We developed a series of tools using the available APIs (REST and GraphQL) to extend the functionality of the LMS. 📸 Photo by Barn Images on Unsplash.",
+      "description": "Institutional learning management sytems (LMS) don't always 'do' what we need it to, or make data available in an accessible way. Embedded within a team of instructional support staff, we developed a series of tools using the available APIs (REST and GraphQL) to extend the functionality of the LMS. 📸 Photo by Barn Images on Unsplash.",
       "tags": ["Project-Management", "API"],
       "image": {
         "src": "../../images/barn-images-t5YUoHW6zRo-unsplash.jpg",
@@ -42,6 +42,24 @@
     },
     {
       "visible": true,
+      "category": "🎓 Master of Educational Technology",
+      "title": "The “IKEA Model” for pragmatic development of a custom learning analytics dashboard",
+      "description": "I completed UBC's Master of Education program in 2022. Fondly known as the MET program, the mix of hands-on and theoretical learning ultimately produced a body of work that showcases my desire to learn by doing. A culminating aspect of the program was a project-based course that I was able to continue as a collaboration past graduation, which led to publication of the project in 2023. 📸 Photo by Susan Q Yin on Unsplash",
+      "tags": ["Publications"],
+      "image": {
+        "src": "../../images/susan-q-yin-2JIvboGLeho-unsplash.jpg",
+        "alt": "",
+        "linkTo": "https://unsplash.com/photos/2JIvboGLeho?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://publications.ascilite.org/index.php/APUB/article/view/465"
+        }
+      ]
+    }
+    {
+      "visible": false,
       "category": "🎓 Master of Educational Technology",
       "title": "Check out my Master's portfolio",
       "description": "I completed UBC's Master of Education program in 2022. Fondly known as the MET program, the mix of hands-on and theoretical learning ultimately produced a body of work that showcases my desire to learn by doing. The goal was to 'show off' artifacts I built throughout the program, but I wanted to do so in a way that allowed me to experiment with new technologies - enter my first experience with Gatsby and React! [Sadly, not mobile friendly]. 📸 Photo by Susan Q Yin on Unsplash",
