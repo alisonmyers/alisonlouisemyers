@@ -7,7 +7,7 @@ I like to build stuff and learn things. <- me
 
 <i><q>I take immense pleasure in both building and learning. The art of construction captivates me almost as much as the pursuit of knowledge. Whether it's creating something tangible or expanding my understanding, these two passions intertwine to shape my personal and professional journey.</q></i> <- chatGPT 🤖
 
-The content in this portfolio is my own, but I that believe attribution is critically important. This portfolio wouldn't exist without:  
+The content in this portfolio is my own, that said, I believe that attribution is critically important. This portfolio wouldn't exist without:  
 
 🔁 This portfolio was adapted from the Gatsby Starter "Portfolio Minimal" developed by <a href="https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Konstantin Münster</u></a>
 
