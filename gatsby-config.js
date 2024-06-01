@@ -17,13 +17,26 @@ module.exports = {
         blogSettings: {
           path: "/blog", // Defines the slug for the blog listing page
           usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
-        },
+        }, 
         // googleAnalytics: {
-        //     trackingId: "UA-XXXXXX-X",
+        //     trackingId: "G-WY6465L6MK",
         //     anonymize: true, // Default true
         //     environments: ["production", "development"] // Default ["production"]
-        // }
+        // },
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "G-WY6465L6MK",
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        exclude: [],
+        pageTransitionDelay: 0,
+        defer: false,
+        enableWebVitalsTracking: true,
+      },
+    }
   ],
 };
