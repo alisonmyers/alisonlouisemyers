@@ -25,18 +25,18 @@ module.exports = {
         // },
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "G-N6RY3BCFL9",
-        head: false,
-        anonymize: true,
-        respectDNT: true,
-        exclude: [],
-        pageTransitionDelay: 0,
-        defer: false,
-        enableWebVitalsTracking: true,
-      },
-    }
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: "G-N6RY3BCFL9",
+    //     head: false,
+    //     anonymize: true,
+    //     respectDNT: true,
+    //     exclude: [],
+    //     pageTransitionDelay: 0,
+    //     defer: false,
+    //     enableWebVitalsTracking: true,
+    //   },
+    // }
   ],
 };
