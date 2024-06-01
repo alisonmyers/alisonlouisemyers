@@ -24,7 +24,7 @@ module.exports = {
         //     environments: ["production", "development"] // Default ["production"]
         // },
       },
-    },
+    }
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {
