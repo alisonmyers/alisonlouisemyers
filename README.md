@@ -1,4 +1,7 @@
 
+## Hosted by
+- netlify (connected via personal github)
+  
 
 ## Installation
 
@@ -8,13 +11,7 @@
    npm install -g gatsby-cli
    ```
 
-2. Create a new Gatsby site with the Portfolio Minimal Starter.
-
-   ```sh
-   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
-   ```
-
-3. Once installed, you can begin developing your site.
+2. Once installed, you can begin developing your site.
 
    ```sh
    cd portfolio-minimal
